@@ -7,7 +7,7 @@ public class Main {
         int hora;
 
         while (true) {
-            System.out.println("que horas sao?");
+            System.out.println("Que horas sao?");
             hora = sc.nextInt();
             sc.nextLine();
 
